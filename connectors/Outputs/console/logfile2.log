@@ -1,3 +1,0 @@
-Teste
-Data Sent...
-{"Alarm":null,"Axis":{"AbsPos_X":-18.150999069213867,"AbsPos_Y":18.0,"AbsPos_Z":-16.332000732421875,"ActPos_X":301.6130065917969,"ActPos_Y":-168.31700134277344,"ActPos_Z":-240.5050048828125,"Feed_Rate":720,"Feed_Rate_Unit":"mm/min","Load_X":8.0,"Load_Y":4.0,"Load_Z":43.0,"Speed_Rate":-1,"Spindle_Load":7.0,"Spindle_Speed":10342.0,"Spindle_Unit":"rpm"},"System":{"Axes":"03","IPAddress":"192.168.0.100","Series":"G421","Version":"64.0"}}
