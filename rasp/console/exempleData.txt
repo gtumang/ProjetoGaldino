@@ -1,0 +1,6 @@
+CNC_Data capture: 0
+{"Alarm":{"PMC_0":"2002 - PRESSAO DE AR BAIXA","PMC_1":"2037 - PERIODO MANUTENCAO PERIODICA","PMC_2":"2001 - A PORTA FRONTAL ESTA ABERTA"},
+"Axis":{"AbsPos_X":342.1059875488281,"AbsPos_Y":-38.01900100708008,"AbsPos_Z":227.38900756835938,"ActPos_X":625.5759887695313,"ActPos_Y":-229.05099487304688,"ActPos_Z":-75.4010009765625,"Feed_Rate":0,"Feed_Rate_Unit":"mm/min","Load_X":0.0,"Load_Y":0.0,"Load_Z":45.0,"Speed_Rate":-1,"Spindle_Load":0.0,"Spindle_Speed":0.0,"Spindle_Unit":"rpm"}
+"Program":{"Fullname":"O0","Name":"O0"},"Status":{"Alarm_Status":"****","Auto_Operation_Timer":19780,"Automatic_Mode":"MDI","Automatic_Operation":"****(RESET)","Controller_Mode":"Manual Data Input","Cutting_Timer":14810,"Edit_Status":"NOT EDITING","Emergency":"Armed","Emergency_Status":"NO EMERGENCY","Execution_Mode":"Stopped","Machined_Parts":3733,"Motion_Status":"****","Power_On_Timer":466295,"Required_Machined_Parts":0,"Total_Machined_Parts":3733},
+"System":{"Axes":"03","IPAddress":"192.168.0.101","Series":"G421","Version":"64.0"},
+"chrono":["2022-09-14T21:51:46Z"]}
